@@ -12,6 +12,7 @@ A Rwandese fullstack developer.
   <li>Frontend: ReactJs, BS5, Tailwind CSS</li>
 </ul>
 <a href="https://www.buymeacoffee.com/kibongo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kibongos40&show_icons=true&theme=radical)
