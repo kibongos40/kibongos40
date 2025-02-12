@@ -18,8 +18,8 @@ A Rwandese fullstack developer.
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kibongos40&show_icons=true&theme=radical) [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=kibongos40&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibongos40&layout=compact&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kibongos40&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibongos40&layout=compact&theme=radical)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=kibongos40&theme=dark)](https://git.io/streak-stats)
 
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
