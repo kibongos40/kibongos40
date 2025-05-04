@@ -12,7 +12,7 @@ A Rwandese fullstack developer.
   <li>Frontend: ReactJs, BS5, Tailwind CSS</li>
 </ul>
 
-[![committers.top badge](https://user-badge.committers.top/rwanda_private/kibongos40.svg?cache=abcde)](https://user-badge.committers.top/rwanda_private/kibongos40?cache=abcde)
+[![committers.top badge](https://user-badge.committers.top/rwanda_private/kibongos40.svg)](https://user-badge.committers.top/rwanda_private/kibongos40?cache=abcde)
 
 <a href="https://www.buymeacoffee.com/kibongo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
