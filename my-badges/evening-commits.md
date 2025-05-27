@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/kibongos40/rwanda-administrative-divisions-api/commit/71702222552a1f30886b8e74258efe20be05daac">7170222</a>
+- <a href="https://github.com/kibongos40/rwanda-administrative-divisions-api/commit/e780f40581ccea3bee0e7596687e467343dfd0ab">e780f40</a>
+- <a href="https://github.com/kibongos40/Rwanda-Geo-Structure/commit/8a2dfcd44d996d5c2b1a3db2f3cd4816b9bdc395">8a2dfcd</a>
+- <a href="https://github.com/kibongos40/rwanda-administrative-divisions-api/commit/2e0c5c7d656c9c44382fed1bf6bcf99d2fbbb401">2e0c5c7</a>
 - <a href="https://github.com/kibongos40/kibongos40/commit/a70fa05fe0ce877c464f128e1282540dad4fd610">a70fa05</a>
 - <a href="https://github.com/kibongos40/kibongos40/commit/c0af165f7aeb97be4f61f7dea7906c14ac84cedf">c0af165</a>
-- <a href="https://github.com/911samuel/hoop-app/commit/5e481f5db95862597f08dbe813527ee7cb4a234a">5e481f5</a>
-- <a href="https://github.com/kibongos40/hoop-app/commit/5e481f5db95862597f08dbe813527ee7cb4a234a">5e481f5</a>
-- <a href="https://github.com/kibongos40/kibongos40/commit/450ec16c8056256e7d1edf4b4144113167a69b6f">450ec16</a>
-- <a href="https://github.com/911samuel/hoop-app/commit/644f1d96b5197efe3d7d128449d4aa6ae6268d6a">644f1d9</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

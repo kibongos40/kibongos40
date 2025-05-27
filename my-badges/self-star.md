@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 22 my own repositories." title="I&apos;ve starred 22 my own repositories." width="128">
-<strong>I&apos;ve starred 22 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 23 my own repositories." title="I&apos;ve starred 23 my own repositories." width="128">
+<strong>I&apos;ve starred 23 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/kibongos40/aboutme">kibongos40/aboutme</a>
@@ -24,6 +24,7 @@
 - <a href="https://github.com/kibongos40/yaak">kibongos40/yaak</a>
 - <a href="https://github.com/kibongos40/permify">kibongos40/permify</a>
 - <a href="https://github.com/kibongos40/erpnext-fork">kibongos40/erpnext-fork</a>
+- <a href="https://github.com/kibongos40/rwanda-administrative-divisions-api">kibongos40/rwanda-administrative-divisions-api</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
