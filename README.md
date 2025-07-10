@@ -15,12 +15,6 @@ A Rwandese fullstack developer.
 [![committers.top badge](https://user-badge.committers.top/rwanda_private/kibongos40.svg)](https://user-badge.committers.top/rwanda_private/kibongos40?cache=abcde)
 
 <a href="https://www.buymeacoffee.com/kibongo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-## GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kibongos40&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibongos40&layout=compact&theme=radical)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=kibongos40&theme=dark)](https://git.io/streak-stats)
-
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
