@@ -96,5 +96,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/kibongos40/express/commit/2d17b303af382fe681ffa463f95a0609970deb85\">2d17b30</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kibongos40/kibongos40/commit/e451870a8880c3d17cb1cd18933545e6fff701d9\">e451870</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   }
 ]
